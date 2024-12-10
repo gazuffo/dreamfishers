@@ -1,7 +1,18 @@
 {
   "routes": [
     {
-      "route": "/auth/login"
+      "route": "/auth/login",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ]
     }
   ]
 }
