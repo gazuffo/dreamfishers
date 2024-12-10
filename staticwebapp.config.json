@@ -1,10 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/auth/login",
-      "methods": [
-        "post"
-      ]
-    }
-  ]
-}
+{}
