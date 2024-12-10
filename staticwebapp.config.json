@@ -12,7 +12,8 @@
         "options",
         "trace",
         "patch"
-      ]
+      ],
+      "statusCode": 200
     }
   ]
 }
